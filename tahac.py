@@ -16,6 +16,6 @@ for st in streams_list:
     if "audio/mp" in st.mime_type:
         audio_stream = st
 
-audio_stream.download(filename="ytfile")
+audio_stream.download(filename=video['title'])
 
 print "DOWNLOAD finished"
