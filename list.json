@@ -1,0 +1,13 @@
+{
+    "videos" :    [
+        { "title" : "bbbb",                         "link"  : "https://www.youtube.com/watch?v=ay9MSPUKoNg"},
+        { "title" : "karpis-crypto-coffee",         "link"  : "https://www.youtube.com/watch?v=3SV5pRIOee8&t=1634s"},
+        { "title" : "karpis-naucme-sa-cryptomeny",  "link"  : "https://www.youtube.com/watch?v=Ps-wLdy4SdI"},
+        { "title" : "karpis-euro-neprezije",        "link"  : "https://www.youtube.com/watch?v=lRYXVtA4zlU&t=57s"},
+        { "title" : "karpis-FED-zachranuje-akcie",  "link"  : "https://www.youtube.com/watch?v=Pk2Wko_ipw0"},
+        { "title" : "karpis-krizova-hliadka",       "link"  : "https://www.youtube.com/watch?v=L1cX99TYxAI"},
+        { "title" : "lampa-simecka-poliak",         "link"  : "https://www.youtube.com/watch?v=_FQVwBn6eCw"},
+        { "title" : "rogan-sam&dan-hariss",         "link"  : "https://www.youtube.com/watch?v=GB3RGu8Go2s&t=36s"},
+        { "title" : "iness-nemecke-mzdy",           "link"  : "https://www.youtube.com/watch?v=6AkcrMAPkWA"}
+    ]
+}

@@ -1,7 +1,12 @@
 from pytube import YouTube
+import json
 
-# link = 'https://www.youtube.com/watch?v=GB3RGu8Go2s&t=36s'
-link = 'https://youtu.be/ay9MSPUKoNg'
+with open("list.json", "r") as read_file:
+    videos_list = json.load(read_file)['videos']
+
+for video in videos_list:
+    if 'karpis-FED' in video['title']:
+        link = video['link']
 
 yt = YouTube(link)
 
